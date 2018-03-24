@@ -22,3 +22,7 @@ basedir = '/some/path/you/want'
 You can add files of your interest, for the moment it is case sensitive to if you need to add an extension do not forget to add the capital letter eg: .mp3 .MP3:  
 
 supported_ext = (".avi", ".AVI", ".mkv", ".MKV",".mp4",".MP4", ".srt",".SRT", ".m4a",".M4A", ".mp3",".MP3")
+
+# Execution
+To launch the script, just use Python2.7 as follow
+python /path/to/script/scriptname.py
