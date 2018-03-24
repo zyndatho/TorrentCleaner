@@ -25,4 +25,5 @@ supported_ext = (".avi", ".AVI", ".mkv", ".MKV",".mp4",".MP4", ".srt",".SRT", ".
 
 # Execution
 To launch the script, just use Python2.7 as follow
+
 python /path/to/script/scriptname.py
